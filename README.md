@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on image prozessing
+- 🌱 I’m currently studing at FH Muenster
+- 🚜 I’m fascinated by the benefits of smart farming
 <!--
 **GeroldVL/GeroldVL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
